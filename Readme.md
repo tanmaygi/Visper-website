@@ -2,7 +2,8 @@
  A website for a startup providing Azure services to businesses. I am Building a website(using HTML, CSS, Javascript). While learning Azure skills I saw an opportunity in providing the services of Azure, Power Platform and Analytics to Enterprises who want to Scale their businesses via various cloud offerings .
 
 ## Description
-Front-End : The website is build using **HTML, CSS (& bootstrap5) , Javascript** 
+Front-End : The website is build using **HTML, CSS (& bootstrap5) , Javascript**.
+
 Back-End : Used **Azure static webapps** service to host website and **Azure SQL database** as database service.
 
 This Website is going to be my Startup website where I explain the services we currently provide to customers.
