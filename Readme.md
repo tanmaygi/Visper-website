@@ -8,5 +8,9 @@ Back-End : Use Azure static webapps service to host website and Azure SQL databa
 ## Features
 This Project features the following Capabilities:
 - Azure-web-app-static
+- Azure SQL database
 - Github actions
 - Vscode
+
+## Progress(Project)
+![image](assets\img\frt_project-Microsoft-Azure.png)
