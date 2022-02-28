@@ -13,4 +13,4 @@ This Project features the following Capabilities:
 - Vscode
 
 ## Progress(Project)
-![image](assets\img\frt_project-Microsoft-Azure.png)
+![frt_project-Microsoft-Azure](https://user-images.githubusercontent.com/66308861/156013206-8d4e6250-2895-4c2e-b487-2ffd7128d130.png)
